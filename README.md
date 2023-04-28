@@ -56,22 +56,7 @@ The live site is deployed in vercel, but it seems that vercel can't render swipe
 
 ### What I learned
 
-I learned a simple css styling to put text in a background as shown below
-```js
-.newsletter-background {
-  font-weight: 800;
-  font-size: 7.5rem;
-  line-height: 151px;
-  color: #f2f3f7;
-  position: absolute;
-  z-index: -1;
-}
-```
-By setting position to absolute and z-index to -1 (or lower than any other z-index of other elements).
-z-index is a CSS property that defines the order of overlapping HTML elements. Elements with a higher index will be placed on top of elements with a lower index
-![adding text as background](./src/assets/middle-section.png)
-
-I also learned how to connect stripe as payment gate for e-commerce. Full code for connecting to stripe in /pages/api/stripe.js
+I learned how to connect stripe as payment gate for e-commerce. Full code for connecting to stripe in /pages/api/stripe.js
 ![payment with stripe](./src/assets/payment.png)
 
 The confetti effect is implemented on the payment success page after the user successfully checkouts their cart
@@ -89,8 +74,7 @@ The development of this project can be continued by adding a search filter funct
 
 ## Author
 
-- Github - [Shabrina Putri](https://github.com/shabrina12/)
-- Instagram - [@shabputri_](https://www.instagram.com/shabputri_/)
+- Github - [Shabrina Putri](https://github.com/followDev/eCommerce-Fullstack.git)
 
 
 ## Acknowledgments
