@@ -72,9 +72,9 @@ The development of this project can be continued by adding a search filter funct
 - [Customize Prev/Next Button of Swiper Arrows](https://www.timo-ernst.net/blog/2020/09/12/arrows-in-react-swiper-js-how-to-customize-prev-next-button/)
 
 
-## Author
+## Link
 
-- Github - [Shabrina Putri](https://github.com/followDev/eCommerce-Fullstack.git)
+- Github - (https://github.com/followDev/eCommerce-Fullstack.git)
 
 
 ## Acknowledgments
